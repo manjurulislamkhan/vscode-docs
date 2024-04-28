@@ -347,3 +347,7 @@ To check if the current file is using partial mode IntelliSense instead of proje
 ![Partial mode status item](images/working-with-javascript/partial-mode-status-item.png)
 
 The status item will show `Partial mode` if the current file is in partial mode.
+
+### Resolving partial mode
+
+Sometimes, this can be resolved if a new profile is created from "Files > Preferences > Profiles > Create Profile" and then selecting the new profile instead of the default one.
